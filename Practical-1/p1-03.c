@@ -20,3 +20,4 @@ int main()
     printf("Double: %lf\n", dou);
     printf("Character: %c\n", cha);
 }
+
